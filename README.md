@@ -14,7 +14,7 @@
 
 ---
 
-## 🖥️ Live Demo (See It In Action)
+## 🖥️ Live Demo 
 
 Run this on your own machine in **under 5 seconds**:
 
